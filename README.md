@@ -8,3 +8,5 @@
 6. [Debugging](debugging.md)
 7. [Intro to Django](intro_django.md)
 8. [Getting Started With Django](django-getting-started.md)
+9. [Intro to JS](intro-js.md)
+10. [JS Arrays](js-arrays.md)

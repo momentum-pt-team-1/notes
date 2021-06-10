@@ -1,4 +1,4 @@
-# [fit] Systematic Debugging
+# [fit] Systematic Debugging in Python
 
 ---
 
